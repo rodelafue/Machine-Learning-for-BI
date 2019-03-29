@@ -692,7 +692,7 @@ arang
 
 #%%
 import pandas as pd
-data = pd.read_csv('D:/Forestal Projects/Base.csv', sep=",", )
+data = pd.read_csv('Base.csv', sep=",", )
 
 
 #%%
